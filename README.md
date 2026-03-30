@@ -25,4 +25,14 @@ Understand conversion rates and identify drop-offs.
 
 ## Analysis
 
-See: analysis.ipynb
+See: analysis_cf.ipynb
+
+## Results
+
+- The largest drop-off happens between visit and signup
+- Conversion improves after signup
+- Retention to second purchase is lower than initial conversion
+
+## Business Interpretation
+
+The main bottleneck is user activation at the top of the funnel, which suggests opportunities to improve onboarding and first-time user conversion.
